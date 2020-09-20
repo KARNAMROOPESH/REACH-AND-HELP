@@ -1,0 +1,33 @@
+h1{color:rgb(97, 218, 251)}
+
+* {
+ background: wheat;
+
+}
+p,h2,h3,h1{
+    text-align: center;
+    color: navy;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+ .aboutme{
+   margin-top: 50px;
+ }
+.grid {
+  display:flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  
+}
+.header {
+    background-color: black;
+}
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
